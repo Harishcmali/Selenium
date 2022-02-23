@@ -4,6 +4,8 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="testng.Testcase2"/>
+      <class name="testng.Test0"/>
+      <class name="testng.Test1"/>
       <class name="testng.Testacse1"/>
       <class name="testng.Testcase3"/>
     </classes>
